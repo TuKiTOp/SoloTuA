@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carta para mi Anjheli</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="shortcut icon"
+      href="https://www.pinclipart.com/picdir/big/580-5803539_6-pixel-heart-pixel-art-heart-png-clipart.png"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <div class="envelope-container" onclick="toggleOpen()">
+      <div class="envelope">
+        <div class="back-flap"></div>
+        <div class="bottom-flap"></div>
+        <div class="left-flap"></div>
+        <div class="right-flap"></div>
+        <div class="top-flap"></div>
+      </div>
+      <div class="letter" id="letter-content"></div>
+    </div>
+
+    <script>
+      let frases = [];
+      let isOpen = false;
+      let frasesDisponibles = [];
+      const letterContent = { title: "Para Anjheli M."};
+
+      async function loadFrases() {
+        try {
+          const response = await fetch("data.json");
+          const data = await response.json();
+          frases = data.frases;
+          reiniciarCiclo();
+          loadLetterContent();
+        } catch (error) {
+          console.error("Error:", error);
+        }
+      }
+
+      function reiniciarCiclo() {
+        frasesDisponibles = [...frases]; // Copia fresca del array
+        for (let i = frasesDisponibles.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [frasesDisponibles[i], frasesDisponibles[j]] = [
+            frasesDisponibles[j],
+            frasesDisponibles[i],
+          ];
+        }
+      }
+
+      function getFraseUnica() {
+        if (frasesDisponibles.length === 0) {
+          return null; // Evita errores
+        }
+        return frasesDisponibles.pop();
+      }
+
+      function loadLetterContent() {
+        let frase = getFraseUnica();
+
+        const letterDiv = document.getElementById("letter-content");
+
+        if (!frase) {
+          letterDiv.innerHTML = `
+            <h2>${letterContent.title}</h2>
+            <p><strong>Has terminado...</strong></p>
+          `;
+          reiniciarCiclo(); // Reinicia para una nueva ronda
+          return;
+        }
+
+        let mensajeFinal =
+          frasesDisponibles.length === 0
+            ? "<strong>Has terminado...</strong>"
+            : frasesDisponibles.length === 1
+            ? "<strong>Última frase...</strong>"
+            : `Frase ${frase.id} (Faltantes: ${frasesDisponibles.length})`;
+
+        letterDiv.innerHTML = `
+          <h2>${letterContent.title}</h2>
+          <p>${frase.texto}</p>
+          <small>${mensajeFinal}</small>
+        `;
+      }
+
+      function toggleOpen() {
+        const wasOpen = isOpen;
+        document.querySelector(".envelope").classList.toggle("open");
+        isOpen = !isOpen;
+
+        if (wasOpen && !isOpen) {
+          setTimeout(() => {
+            loadLetterContent();
+          }, 500);
+        }
+      }
+
+      loadFrases();
+    </script>
+  </body>
+</html>

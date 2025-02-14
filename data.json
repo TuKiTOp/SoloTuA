@@ -1,0 +1,793 @@
+{
+  "frases": [
+    {
+      "id": 1,
+      "texto": "A veces, el camino más difícil es el que nos lleva a nuestro mejor destino."
+    },
+    {
+      "id": 2,
+      "texto": "Recuerda que las estrellas brillan más fuerte después de la tormenta."
+    },
+    {
+      "id": 3,
+      "texto": "La felicidad está dentro de ti, solo necesitas encontrarla."
+    },
+    {
+      "id": 4,
+      "texto": "Nunca es tarde para empezar de nuevo y alcanzar lo que sueñas."
+    },
+    {
+      "id": 5,
+      "texto": "Cada día es una nueva oportunidad para ser la mejor versión de ti misma."
+    },
+    {
+      "id": 6,
+      "texto": "El dolor es temporal, pero la paz y la fuerza que ganarás son eternas."
+    },
+    {
+      "id": 7,
+      "texto": "Tu valor no depende de las circunstancias, sino de lo que eres capaz de superar."
+    },
+    {
+      "id": 8,
+      "texto": "El amor propio es la base de cualquier felicidad. Siempre recuerda cuidar de ti."
+    },
+    {
+      "id": 9,
+      "texto": "En la vida, lo que parece una caída puede ser solo el impulso que necesitabas para volar."
+    },
+    {
+      "id": 10,
+      "texto": "No necesitas la aprobación de nadie para brillar con tu propia luz."
+    },
+    {
+      "id": 11,
+      "texto": "Cada paso que das hacia adelante te acerca más a la persona que estás destinada a ser."
+    },
+    {
+      "id": 12,
+      "texto": "Tienes un corazón valiente, y eso te llevará lejos."
+    },
+    {
+      "id": 13,
+      "texto": "La verdadera fortaleza se demuestra en los momentos más difíciles."
+    },
+    {
+      "id": 14,
+      "texto": "Cualquier día es bueno para comenzar a construir una nueva vida."
+    },
+    {
+      "id": 15,
+      "texto": "La vida es tuya, y tienes todo lo que necesitas para hacerla grandiosa."
+    },
+    {
+      "id": 16,
+      "texto": "Recuerda que incluso los días más oscuros tienen un final lleno de luz."
+    },
+    {
+      "id": 17,
+      "texto": "Nunca pierdas la fe en ti misma, porque dentro de ti hay una fuerza increíble."
+    },
+    {
+      "id": 18,
+      "texto": "Cada error es solo una lección que te acerca más a tus sueños."
+    },
+    {
+      "id": 19,
+      "texto": "No importa cuánto te haya dolido el pasado, el futuro tiene cosas maravillosas esperándote."
+    },
+    {
+      "id": 20,
+      "texto": "Tienes la capacidad de transformar cualquier tristeza en fuerza."
+    },
+    {
+      "id": 21,
+      "texto": "Lo que está por venir será mejor que todo lo que has dejado atrás."
+    },
+    {
+      "id": 22,
+      "texto": "Eres mucho más fuerte de lo que crees, y te sorprenderás de lo que eres capaz de lograr."
+    },
+    {
+      "id": 23,
+      "texto": "Cada día es una nueva página en tu historia. Tú eres la autora."
+    },
+    {
+      "id": 24,
+      "texto": "Si alguna vez te sientes perdida, recuerda que siempre puedes volver a encontrar tu camino."
+    },
+    {
+      "id": 25,
+      "texto": "No te apresures en encontrar todas las respuestas, la vida tiene su propio ritmo."
+    },
+    {
+      "id": 26,
+      "texto": "Lo importante no es lo que perdiste, sino lo que todavía tienes por descubrir."
+    },
+    {
+      "id": 27,
+      "texto": "La paz interior es el primer paso para encontrar el equilibrio en tu vida."
+    },
+    {
+      "id": 28,
+      "texto": "Hoy es el primer día del resto de tu vida. Aprovechalo para ser feliz."
+    },
+    {
+      "id": 29,
+      "texto": "Es normal sentirse vulnerable a veces, pero nunca olvides tu capacidad de recuperación."
+    },
+    {
+      "id": 30,
+      "texto": "El amor propio es el primer paso para construir un futuro lleno de esperanza."
+    },
+    {
+      "id": 31,
+      "texto": "Te mereces todo lo bueno que está por venir, solo ten paciencia."
+    },
+    {
+      "id": 32,
+      "texto": "La vida no es perfecta, pero tiene momentos maravillosos que te esperan."
+    },
+    {
+      "id": 33,
+      "texto": "Con cada desafío, te vuelves más fuerte y más sabia."
+    },
+    {
+      "id": 34,
+      "texto": "Nunca subestimes la fuerza que tienes dentro de ti para superar cualquier obstáculo."
+    },
+    {
+      "id": 35,
+      "texto": "La vida se trata de crecimiento, aprendizaje y evolución. Estás en el camino correcto."
+    },
+    {
+      "id": 36,
+      "texto": "Cada día es una nueva oportunidad para empezar de nuevo, sin importar lo que pasó ayer."
+    },
+    {
+      "id": 37,
+      "texto": "La vida siempre te sorprenderá cuando menos lo esperes."
+    },
+    {
+      "id": 38,
+      "texto": "Aunque el camino sea difícil, siempre habrá algo valioso que aprender en el trayecto."
+    },
+    {
+      "id": 39,
+      "texto": "Si alguna vez dudas de ti misma, recuerda que ya has superado mucho más de lo que pensaste."
+    },
+    {
+      "id": 40,
+      "texto": "La verdadera belleza está en cómo te ves a ti misma, no en cómo te ven los demás."
+    },
+    {
+      "id": 41,
+      "texto": "Los mejores momentos de tu vida aún están por llegar."
+    },
+    {
+      "id": 42,
+      "texto": "Lo que ha pasado no define lo que puedes lograr. El futuro está en tus manos."
+    },
+    {
+      "id": 43,
+      "texto": "En cada paso que das, estás construyendo una versión más fuerte y mejor de ti misma."
+    },
+    {
+      "id": 44,
+      "texto": "Siempre hay algo hermoso esperándote, solo debes ser paciente."
+    },
+    {
+      "id": 45,
+      "texto": "Recuerda que cada día es un nuevo comienzo para reinventarte."
+    },
+    {
+      "id": 46,
+      "texto": "Aunque hoy sea difícil, mañana será un día lleno de nuevas oportunidades."
+    },
+    {
+      "id": 47,
+      "texto": "Tienes el poder de crear la vida que deseas, solo debes confiar en ti misma."
+    },
+    {
+      "id": 48,
+      "texto": "Lo que te espera está lleno de sorpresas que te harán sonreír nuevamente."
+    },
+    {
+      "id": 49,
+      "texto": "La felicidad no está en los demás, sino en ti misma."
+    },
+    {
+      "id": 50,
+      "texto": "Cada día es una nueva oportunidad para dejar atrás el pasado y abrazar el futuro."
+    },
+    { "id": 51, "texto": "No dejes que nada ni nadie apague tu luz interior." },
+    {
+      "id": 52,
+      "texto": "El universo tiene una forma especial de recompensar a quienes nunca se rinden."
+    },
+    {
+      "id": 53,
+      "texto": "Cierra los ojos por un momento y siente todo lo que tienes a tu alrededor. Eres valiosa."
+    },
+    {
+      "id": 54,
+      "texto": "Aunque te sientas sola, siempre estarás rodeada de amor, incluso cuando no lo veas."
+    },
+    {
+      "id": 55,
+      "texto": "Cada dificultad es solo una lección que te hace más fuerte."
+    },
+    {
+      "id": 56,
+      "texto": "No te preocupes por el tiempo. Lo que está por venir será mucho mejor."
+    },
+    {
+      "id": 57,
+      "texto": "Eres una guerrera, y no hay obstáculo que no puedas superar."
+    },
+    {
+      "id": 58,
+      "texto": "Lo que más importa es lo que estás construyendo para ti misma, no para los demás."
+    },
+    {
+      "id": 59,
+      "texto": "A veces, lo más bonito de la vida está en los momentos más simples."
+    },
+    {
+      "id": 60,
+      "texto": "Tu corazón es fuerte, y eso es lo que te mantiene en pie."
+    },
+    {
+      "id": 61,
+      "texto": "Los momentos difíciles te enseñan a valorar lo que realmente importa."
+    },
+    {
+      "id": 62,
+      "texto": "El amor por ti misma es la clave para abrir las puertas de una vida plena."
+    },
+    {
+      "id": 63,
+      "texto": "La vida es una aventura, y lo mejor está por venir."
+    },
+    {
+      "id": 64,
+      "texto": "No tengas miedo de cambiar, porque a veces es necesario para crecer."
+    },
+    {
+      "id": 65,
+      "texto": "Dentro de ti hay una fuerza poderosa que puede transformar cualquier dificultad."
+    },
+    {
+      "id": 66,
+      "texto": "Te mereces la paz, la felicidad y la abundancia. El universo tiene grandes cosas para ti."
+    },
+    {
+      "id": 67,
+      "texto": "Con cada desafío, te acercas más a la persona increíble que eres."
+    },
+    {
+      "id": 68,
+      "texto": "El futuro es incierto, pero está lleno de posibilidades infinitas."
+    },
+    {
+      "id": 69,
+      "texto": "Es normal tener días difíciles, pero lo más importante es seguir adelante."
+    },
+    {
+      "id": 70,
+      "texto": "Cada día es una nueva oportunidad para construir el futuro que deseas."
+    },
+    {
+      "id": 71,
+      "texto": "Te admiro por tu valentía. Eres mucho más fuerte de lo que piensas."
+    },
+    {
+      "id": 72,
+      "texto": "Aunque el camino sea incierto, siempre habrá algo que te guíe."
+    },
+    {
+      "id": 73,
+      "texto": "No olvides que el mayor reto es creerte que eres capaz de lograr todo lo que sueñas."
+    },
+    {
+      "id": 74,
+      "texto": "Cada paso que das es un paso hacia un futuro brillante."
+    },
+    {
+      "id": 75,
+      "texto": "Recuerda que las cicatrices no son debilidad, son marcas de superación."
+    },
+    {
+      "id": 76,
+      "texto": "Lo mejor está por venir, y lo sabrás cuando menos lo esperes."
+    },
+    {
+      "id": 77,
+      "texto": "Tienes todo lo que necesitas dentro de ti para ser feliz y exitosa."
+    },
+    {
+      "id": 78,
+      "texto": "A veces el silencio es la mejor respuesta para encontrar la paz."
+    },
+    {
+      "id": 79,
+      "texto": "Cada día que vives es una victoria. Celebra cada pequeño logro."
+    },
+    {
+      "id": 80,
+      "texto": "Tienes la fuerza para cambiar tu vida y el coraje para seguir adelante."
+    },
+    {
+      "id": 81,
+      "texto": "Tú eres tu propia inspiración. No olvides lo lejos que has llegado."
+    },
+    {
+      "id": 82,
+      "texto": "La vida es un regalo y siempre hay algo hermoso por venir."
+    },
+    {
+      "id": 83,
+      "texto": "Recuerda que cada vez que caes, te levantas más fuerte."
+    },
+    {
+      "id": 84,
+      "texto": "Tu futuro es brillante. No dejes que las sombras del pasado te detengan."
+    },
+    {
+      "id": 85,
+      "texto": "A veces las cosas se desordenan para que podamos construir algo mejor."
+    },
+    {
+      "id": 86,
+      "texto": "La fuerza que necesitas ya está dentro de ti. Confía en ti misma."
+    },
+    {
+      "id": 87,
+      "texto": "No tienes que ser perfecta, solo ser tú misma y hacer lo mejor que puedas."
+    },
+    {
+      "id": 88,
+      "texto": "La vida tiene una forma especial de recompensar a quienes perseveran."
+    },
+    {
+      "id": 89,
+      "texto": "Siempre hay un camino hacia la felicidad, solo tienes que buscarlo."
+    },
+    {
+      "id": 90,
+      "texto": "Cada cambio es una oportunidad para crecer y ser mejor."
+    },
+    {
+      "id": 91,
+      "texto": "Tu viaje no tiene fin, porque siempre habrá algo nuevo por descubrir."
+    },
+    { "id": 92, "texto": "A veces, lo mejor de ti está en lo que superaste." },
+    {
+      "id": 93,
+      "texto": "La vida es un lienzo en blanco, y tienes todos los colores para pintarlo."
+    },
+    {
+      "id": 94,
+      "texto": "Tu alma es fuerte, y lo que sientes hoy te hará aún más poderosa."
+    },
+    {
+      "id": 95,
+      "texto": "Cada día es un nuevo comienzo. No te detengas ahora."
+    },
+    {
+      "id": 96,
+      "texto": "Todo lo que necesitas para ser feliz ya está dentro de ti."
+    },
+    {
+      "id": 97,
+      "texto": "Recuerda que tu historia aún está escribiéndose, y lo mejor está por venir."
+    },
+    {
+      "id": 98,
+      "texto": "En cada desafío hay una oportunidad para ser más fuerte y sabio."
+    },
+    {
+      "id": 99,
+      "texto": "Hoy es el primer día del resto de tu vida. Aprovechalo para hacer algo grandioso."
+    },
+    {
+      "id": 100,
+      "texto": "Cada experiencia, buena o mala, te está llevando hacia tu mejor versión."
+    },
+    {
+      "id": 101,
+      "texto": "Hoy es solo un capítulo en tu historia. Lo mejor está por venir."
+    },
+    {
+      "id": 102,
+      "texto": "No temas empezar de nuevo, porque en cada nuevo comienzo hay algo mejor esperándote."
+    },
+    {
+      "id": 103,
+      "texto": "Te mereces todo lo mejor. El universo tiene grandes planes para ti."
+    },
+    {
+      "id": 104,
+      "texto": "La vida es como un río. Sigue fluyendo, incluso cuando las aguas se vuelvan turbulentas."
+    },
+    {
+      "id": 105,
+      "texto": "Las cosas buenas llegan a quienes tienen paciencia y una mente abierta."
+    },
+    {
+      "id": 106,
+      "texto": "No te rindas. Siempre hay algo hermoso esperando por ti."
+    },
+    {
+      "id": 107,
+      "texto": "Eres una persona increíble, capaz de lograr cualquier cosa que te propongas."
+    },
+    {
+      "id": 108,
+      "texto": "A veces el mayor reto es creer en ti misma, pero eres más que capaz."
+    },
+    {
+      "id": 109,
+      "texto": "La vida es una aventura, y lo mejor aún está por venir."
+    },
+    {
+      "id": 110,
+      "texto": "No hay sombra que pueda detener tu luz. Sigue brillando."
+    },
+    {
+      "id": 111,
+      "texto": "Cada paso que das te acerca más a la vida que sueñas."
+    },
+    {
+      "id": 112,
+      "texto": "Nunca subestimes tu poder. Eres capaz de cosas increíbles."
+    },
+    { "id": 113, "texto": "La felicidad está a solo un paso. No te rindas." },
+    { "id": 114, "texto": "El futuro es brillante. Tienes tanto por delante." },
+    {
+      "id": 115,
+      "texto": "No dejes que los tropiezos te detengan. Aprenderás de ellos y seguirás adelante."
+    },
+    {
+      "id": 116,
+      "texto": "Cada día es una nueva oportunidad para reinventarte."
+    },
+    {
+      "id": 117,
+      "texto": "Lo que está por venir será aún mejor de lo que esperas."
+    },
+    {
+      "id": 118,
+      "texto": "Tienes dentro de ti una fuerza increíble. Nunca lo olvides."
+    },
+    {
+      "id": 119,
+      "texto": "La vida siempre tiene algo grandioso reservado para ti."
+    },
+    {
+      "id": 120,
+      "texto": "Las estrellas no necesitan que les digan cómo brillar. Tú tampoco."
+    },
+    {
+      "id": 121,
+      "texto": "Cada día es una nueva oportunidad para crecer y aprender."
+    },
+    {
+      "id": 122,
+      "texto": "Recuerda que el tiempo sana las heridas, y te llevará a un lugar mejor."
+    },
+    {
+      "id": 123,
+      "texto": "Aunque el camino sea largo, siempre habrá algo hermoso al final."
+    },
+    {
+      "id": 124,
+      "texto": "Lo mejor de ti está por venir, no dejes que nada te haga dudar."
+    },
+    {
+      "id": 125,
+      "texto": "Sigue adelante con la certeza de que lo que necesitas vendrá a ti."
+    },
+    {
+      "id": 126,
+      "texto": "No te detengas, el mejor capítulo de tu vida aún está por escribirse."
+    },
+    {
+      "id": 127,
+      "texto": "El futuro es un lienzo en blanco. Pinta lo que desees."
+    },
+    {
+      "id": 128,
+      "texto": "A veces lo más valioso que tienes es el coraje para seguir adelante."
+    },
+    {
+      "id": 129,
+      "texto": "Tu historia aún está comenzando, y lo mejor está por llegar."
+    },
+    {
+      "id": 130,
+      "texto": "Nunca olvides lo capaz que eres. Eres más fuerte de lo que crees."
+    },
+
+    {
+      "id": 131,
+      "texto": "El universo conspiró para cruzar nuestros caminos, Anjheli, y me alegra que así haya sido."
+    },
+    {
+      "id": 132,
+      "texto": "No sé qué me depara el futuro, pero espero que en él estés tú."
+    },
+    {
+      "id": 133,
+      "texto": "Eres como un algoritmo perfecto, cada parte de ti encaja de manera única en mi vida."
+    },
+    {
+      "id": 134,
+      "texto": "Si los momentos especiales fueran líneas de código, tú serías mi mejor función."
+    },
+    {
+      "id": 135,
+      "texto": "No hay error en mi sistema cuando pienso en ti, eres mi código sin bugs."
+    },
+    {
+      "id": 136,
+      "texto": "Si el destino es un programa, entonces tú eres mi condición verdadera."
+    },
+    {
+      "id": 137,
+      "texto": "Hay conexiones que simplemente no necesitan WiFi, como la nuestra."
+    },
+    {
+      "id": 138,
+      "texto": "Tu sonrisa, Anjheli, es ese detalle que hace que todo valga la pena."
+    },
+    {
+      "id": 139,
+      "texto": "No soy un hacker, pero me gustaría entrar en tu corazón."
+    },
+    {
+      "id": 140,
+      "texto": "Si fueras un lenguaje de programación, serías el que mejor entiende mi lógica."
+    },
+    {
+      "id": 141,
+      "texto": "A veces, una sola mirada tuya dice más que mil palabras."
+    },
+    {
+      "id": 142,
+      "texto": "El tiempo pasa más rápido cuando estoy cerca de ti, Anjheli."
+    },
+    {
+      "id": 143,
+      "texto": "No necesito un mapa, mi camino siempre me lleva a ti."
+    },
+    {
+      "id": 144,
+      "texto": "Cada momento contigo es como un fragmento de un sueño del que no quiero despertar."
+    },
+    {
+      "id": 145,
+      "texto": "Anjheli, hay días que brillan más, y siempre tienen que ver contigo."
+    },
+    {
+      "id": 146,
+      "texto": "Si pudieras ver cómo te miro, entenderías todo lo que significas para mí."
+    },
+    {
+      "id": 147,
+      "texto": "El mundo puede ser un lugar caótico, pero tú siempre eres mi paz."
+    },
+    {
+      "id": 148,
+      "texto": "A veces, lo único que quiero es escuchar tu voz para que todo tenga sentido."
+    },
+    {
+      "id": 149,
+      "texto": "Anjheli, estar cerca de ti es suficiente para mejorar cualquier día."
+    },
+    {
+      "id": 150,
+      "texto": "No sé qué hiciste, pero lograste quedarte en mis pensamientos sin pedir permiso."
+    },
+    {
+      "id": 151,
+      "texto": "Cada vez que te veo, me convenzo más de que la vida tiene sentido."
+    },
+    {
+      "id": 152,
+      "texto": "Las estrellas brillan en el cielo, pero tú iluminas mi vida de otra manera."
+    },
+    {
+      "id": 153,
+      "texto": "Eres la casualidad más bonita que el destino pudo darme."
+    },
+    {
+      "id": 154,
+      "texto": "El mundo es grande, pero de alguna forma mi corazón solo tiene espacio para ti."
+    },
+    {
+      "id": 155,
+      "texto": "No sé cómo lo logras, Anjheli, pero tu presencia siempre me hace sonreír."
+    },
+    {
+      "id": 156,
+      "texto": "No sé si fue suerte o destino, pero encontrarte fue lo mejor que me ha pasado."
+    },
+    {
+      "id": 157,
+      "texto": "Eres la única ecuación que nunca quiero resolver, solo disfrutar."
+    },
+    {
+      "id": 158,
+      "texto": "Hay personas que llegan para cambiarlo todo, y tú eres una de ellas."
+    },
+    {
+      "id": 159,
+      "texto": "No importa cuánto pase el tiempo, hay algo en ti que siempre me deja sin palabras."
+    },
+    {
+      "id": 160,
+      "texto": "Si la felicidad tuviera nombre, probablemente se llamaría Anjheli."
+    },
+    {
+      "id": 161,
+      "texto": "Tu presencia es como un amanecer, siempre trae luz y calidez."
+    },
+    {
+      "id": 162,
+      "texto": "Si cada pensamiento en ti fuera un latido, mi corazón no descansaría."
+    },
+    {
+      "id": 163,
+      "texto": "A veces, lo más bonito de mi día es saber que existes."
+    },
+    {
+      "id": 164,
+      "texto": "Si hay algo que me hace feliz sin razón, es verte sonreír."
+    },
+    {
+      "id": 165,
+      "texto": "Hay personas que simplemente iluminan los días, y tú eres una de ellas."
+    },
+    {
+      "id": 166,
+      "texto": "No sé qué hice para merecer conocerte, pero sin duda fue lo mejor."
+    },
+    {
+      "id": 167,
+      "texto": "Si la vida fuera un libro, tú serías mi capítulo favorito."
+    },
+    {
+      "id": 168,
+      "texto": "Anjheli, hay algo en ti que siempre me deja queriendo saber más."
+    },
+    {
+      "id": 169,
+      "texto": "Algunas personas dejan huellas en la vida, pero tú dejaste un camino completo."
+    },
+    {
+      "id": 170,
+      "texto": "Si pudiera elegir un solo lugar en el mundo, elegiría estar contigo."
+    },
+    {
+      "id": 171,
+      "texto": "Cada palabra que dices es un pequeño rayo de luz en mis días."
+    },
+    {
+      "id": 172,
+      "texto": "Eres como una canción que nunca quiero dejar de escuchar."
+    },
+    {
+      "id": 173,
+      "texto": "No sé qué tiene tu risa, pero es mi sonido favorito."
+    },
+    {
+      "id": 174,
+      "texto": "Cuando hablo contigo, todo lo demás deja de importar."
+    },
+    {
+      "id": 175,
+      "texto": "Si los momentos se pudieran congelar, guardaría cada uno contigo."
+    },
+    {
+      "id": 176,
+      "texto": "A veces, el mejor regalo es simplemente saber que existes."
+    },
+    {
+      "id": 177,
+      "texto": "Anjheli, tu energía es algo que ilumina incluso los días más grises."
+    },
+    {
+      "id": 178,
+      "texto": "Tu forma de ser hace que todo se sienta más ligero y especial."
+    },
+    {
+      "id": 179,
+      "texto": "No sé si crees en la magia, Anjheli, pero hay algo en ti que la hace real."
+    },
+    {
+      "id": 180,
+      "texto": "Algunas personas son inolvidables, y tú eres la prueba de ello."
+    },
+    {
+      "id": 181,
+      "texto": "Siempre hay un detalle en ti que hace que mi día sea mejor."
+    },
+    {
+      "id": 182,
+      "texto": "No sé si el destino existe, pero si es así, seguro te puso en mi camino por algo."
+    },
+    {
+      "id": 183,
+      "texto": "Anjheli, hay algo en ti que hace que cualquier momento se sienta especial."
+    },
+    {
+      "id": 184,
+      "texto": "No es necesario que hagas nada extraordinario, tu existencia ya es suficiente."
+    },
+    {
+      "id": 185,
+      "texto": "Si pudiera guardar momentos en un archivo, los más bonitos serían contigo."
+    },
+    {
+      "id": 186,
+      "texto": "Eres ese tipo de persona que, sin esfuerzo, deja huella en los demás."
+    },
+    {
+      "id": 187,
+      "texto": "Cada vez que te veo, confirmo que la vida tiene cosas realmente valiosas."
+    },
+    {
+      "id": 188,
+      "texto": "Si la felicidad se midiera en segundos, cada momento contigo valdría horas."
+    },
+    {
+      "id": 189,
+      "texto": "Anjheli, hay personas que iluminan la vida de otros sin darse cuenta, y tú eres una de ellas."
+    },
+    {
+      "id": 190,
+      "texto": "El tiempo contigo es como un buen libro, siempre quiero más páginas."
+    },
+    {
+      "id": 191,
+      "texto": "Hay miradas que lo dicen todo, y la tuya es una de ellas."
+    },
+    {
+      "id": 192,
+      "texto": "Tu forma de ser es de esas que dejan recuerdos bonitos sin esfuerzo."
+    },
+    {
+      "id": 193,
+      "texto": "No necesito entenderlo todo, solo sé que hay algo en ti que me hace sentir bien."
+    },
+    {
+      "id": 194,
+      "texto": "A veces no se trata de lo que dices, sino de cómo haces sentir a los demás, y tú lo haces increíblemente bien."
+    },
+    {
+      "id": 195,
+      "texto": "Anjheli, hay personas que son un refugio sin darse cuenta, y tú eres una de ellas."
+    },
+    {
+      "id": 196,
+      "texto": "Eres la prueba de que hay personas que hacen que todo valga la pena."
+    },
+    {
+      "id": 197,
+      "texto": "No busco explicaciones, solo sé que pensar en ti me hace sonreír."
+    },
+    {
+      "id": 198,
+      "texto": "Tu risa es de esas cosas que uno quiere escuchar muchas veces en la vida."
+    },
+    {
+      "id": 199,
+      "texto": "Si pudiera elegir un solo recuerdo para guardar por siempre, sería uno contigo."
+    },
+    {
+      "id": 200,
+      "texto": "No sé qué será del futuro, pero si estás en él, seguro es un buen lugar."
+    }
+  ]
+}
